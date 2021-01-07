@@ -14,3 +14,11 @@ body {
  body {
     background-color: rgb(202, 210, 197);
 }
+#centeredtitle{
+	align-content: center;
+	text-align: center;
+}
+.pic{
+	height:auto;
+	width: 20px;
+}
